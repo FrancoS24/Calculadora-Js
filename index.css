@@ -1,0 +1,35 @@
+#botonera {
+  display: flex;
+  flex-wrap: wrap;
+  height: 550px;
+  margin-top: 20px;
+}
+
+.boton {
+  background-color: #012030;
+  color: #DAFDBA;
+  font-size: 2rem;
+  border-radius: 5px;
+  display: block;
+  margin: 15px;
+  padding-top: 8px;
+  height: 50px;
+  width: 50px;
+}
+
+#calculadora {
+  background: #13678A;
+  border-radius: 5px;
+  padding: 10px;
+  display: block;
+  height: 700px;
+  text-align: center;
+  width: 400px;
+}
+
+#display_numbers {
+  font-size: 2rem;
+  height: 40px;
+  text-align: right;
+  width: 98%;
+}
